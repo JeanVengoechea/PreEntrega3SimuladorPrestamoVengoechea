@@ -1,0 +1,20 @@
+
+body form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: baseline;
+    border: solid black 2px;
+}
+
+
+.formulario-datos{
+    height: 25vw;
+    width: 50vw;
+    display: flex;
+    justify-content: space-around;
+
+}
